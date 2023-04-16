@@ -1,6 +1,6 @@
 class ModMenuCD {
     constructor() {
-        this.cssURL = 'https://raw.githubusercontent.com/<username>/<repository>/<branch>/<path-to-file>';
+        this.cssURL = 'https://raw.githubusercontent.com/WinparWinpar/game-hacks/main/Chrome%20Dino/ModMenuCD/styles/ModMenuCD.css';
         this.xhr = new XMLHttpRequest();
 
         this.xhr.open('GET', this.cssURL, true);
