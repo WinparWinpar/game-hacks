@@ -18,7 +18,7 @@ class ModMenuCD {
         this.modMenu.id = 'modmenu';
         this.modMenu.innerHTML = `
             <div>
-                <h1>ModMenuCD</h1>
+                <h1>ModMenuCD v1.0.0</h1>
                 <div id="hax">
                     <button id="godmode-hax" text-godmode>GodMode</button>
                     <button id="invulnerability-hax" text-invulnerability>Invulnerability</button>
