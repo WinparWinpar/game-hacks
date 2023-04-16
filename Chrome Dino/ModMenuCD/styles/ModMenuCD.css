@@ -1,0 +1,157 @@
+:root {
+    --bg: rgba(0, 0, 255, 0.5);
+    --bg-gradient: linear-gradient(to bottom right, #f00, #00f);
+    --color: #fff;
+    --font-family: 'Cambria', 'Times New Roman', sans-serif;
+    --font-size: 12px;
+    --font-weight: normal;
+    --line-height: 1.5em;
+    --height: 100%;
+    --width: 100%;
+    --top: 50%;
+    --left: 50%;
+    --margin: 0;
+    --padding: 0;
+    --position: absolute;
+    --transform: translate(-50%, -50%);
+}
+
+.body.modmenu {
+    background-color: var(--bg);
+    color: var(--color);
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    font-weight: var(--font-weight);
+    line-height: var(--line-height);
+    height: var(--height);
+    width: var(--width);
+    top: var(--top);
+    left: var(--left);
+    margin: var(--margin);
+    padding: var(--padding);
+    position: var(--position);
+    transform: var(--transform);
+}
+
+.body.modmenu.h1 {
+    color: var(--color);
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    font-weight: var(--font-weight);
+    line-height: var(--line-height);
+    margin: var(--margin);
+    padding: var(--padding);
+    position: var(--position);
+    transform: var(--transform);
+    align-content: top center;
+}
+
+.body.modmenu.modmenu-close {
+    background-color: rgba(0, 0, 255, 0.9);
+    color: var(--color);
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    font-weight: var(--font-weight);
+    line-height: var(--line-height);
+    height: var(--height);
+    width: var(--width);
+    top: var(--top);
+    left: var(--left);
+    margin: var(--margin);
+    padding: var(--padding);
+    position: var(--position);
+    transform: var(--transform);
+}
+
+.body.modmenu.modmenu-close:hover {
+    background-color: rgba(0, 0, 255, 0.7);
+    cursor: pointer;
+    margin: 0.5;
+    padding: 0.5;
+}
+
+.body.modmenu.hax {
+    align-items: center;
+    align-content: center;
+    position: var(--position);
+    margin: var(--margin);
+    padding: var(--padding);
+}
+
+.body.modmenu.hax.godmode-hax {
+    background-color: rgba(0, 0, 255, 0.9);
+    color: var(--color);
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    font-weight: var(--font-weight);
+    line-height: var(--line-height);
+    height: var(--height);
+    width: var(--width);
+    top: var(--top);
+    left: var(--left);
+    margin: var(--margin);
+    padding: var(--padding);
+    position: var(--position);
+    transform: var(--transform);
+    align-content: center;
+}
+
+.body.modmenu.hax.godmode-hax:hover {
+    background-color: rgba(0, 0, 255, 0.7);
+    cursor: pointer;
+    margin: 0.5;
+    padding: 0.5;
+    align-content: center;
+}
+
+.body.modmenu.hax.invulnerability-hax {
+    background-color: rgba(0, 0, 255, 0.9);
+    color: var(--color);
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    font-weight: var(--font-weight);
+    line-height: var(--line-height);
+    height: var(--height);
+    width: var(--width);
+    top: var(--top);
+    left: var(--left);
+    margin: var(--margin);
+    padding: var(--padding);
+    position: var(--position);
+    transform: var(--transform);
+    align-content: center;
+}
+
+.body.modmenu.hax.invulnerability-hax:hover {
+    background-color: rgba(0, 0, 255, 0.7);
+    cursor: pointer;
+    margin: 0.5;
+    padding: 0.5;
+    align-content: center;
+}
+
+.body.modmenu.hax.speed-hax {
+    background-color: rgba(0, 0, 255, 0.9);
+    color: var(--color);
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    font-weight: var(--font-weight);
+    line-height: var(--line-height);
+    height: var(--height);
+    width: var(--width);
+    top: var(--top);
+    left: var(--left);
+    margin: var(--margin);
+    padding: var(--padding);
+    position: var(--position);
+    transform: var(--transform);
+    align-content: center;
+}
+
+.body.modmenu.hax.speed-hax:hover {
+    background-color: rgba(0, 0, 255, 0.7);
+    cursor: pointer;
+    margin: 0.5;
+    padding: 0.5;
+    align-content: center;
+}
